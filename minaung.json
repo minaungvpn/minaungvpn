@@ -1,19 +1,32 @@
 {
-//အပ်ဒိတ်အတွက် ဗားရှင်း၊ အပ်ဒိတ်ရှိပါက၊ နံပါတ်ကို ယခင်ထက် ပိုကြီးစေရန် ပြောင်းလဲရပါမည်
+// version for updating, if there is an update, need to change more numbers than before
 "Version":"1.1",
-//ဆာဗာ အပ်ဒိတ်အတွက် လင့်ခ်
+//link for server update
 "Url":"https://github.com/minaungvpn/minaungvpn/raw/main/minmin80.zip" ,
 "Changelog":"
-မ ဂင်္လာပါ 
- TRUE & DTAC 2 ဖိုင်ထည့်ပေးထာတယ်
- ဖိုင်တင်သည့်ရင် 5/30/2023
- ဖိုင်ကုန်နေ့ 5/9/2023
+ဖိုင်တင်သည့်ရက် 05/1/2023
+ဖိုင်သက်တမ်းကုန်မည်ရက် 05/30/2023
+သက်တမ်းမကုန်ခင်ကြိုတင်အက်ဒိတ်တင်ပေးပါဗျ
+အားလုံးအဆင်ပြေကြပါစေ....
+TRUE Sim
+DTAC Sim
+AIS  Sim
+Edit the TRUE file.
+Edit DTAC files
+Edit Dtac files
+Add function to page load
 ",
-//အောက်မှာ မရှုပ်ပါနဲ့။
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
 "latestVersion": "1.0.0",
 "latestVersionCode": "1",
 "url": "",
  "releaseNotes": [
-  "-Demo"
-    ]
-    }
+ "-Demo"
+  ]
+}
