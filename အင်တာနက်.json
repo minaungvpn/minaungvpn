@@ -1,11 +1,11 @@
 {
 //အပ်ဒိတ်အတွက် ဗားရှင်း၊ အပ်ဒိတ်ရှိပါက၊ နံပါတ်ကို ယခင်ထက် ပိုကြီးစေရန် ပြောင်းလဲရပါမည်
-"Version":"1.1",
+"Version":"1.2",
 //ဆာဗာ အပ်ဒိတ်အတွက် လင့်ခ်
-"Url":"https://github.com/minaungvpn/minaungvpn/raw/main/MinAung.vpn.free.zip" ,
+"Url":"https://github.com/minaungvpn/minaungvpn/raw/main/vpnfree.zip" ,
 "Changelog":"
 မ ဂင်္လာပါ 
- TRUE & DTAC 2 ဖိုင်ထည့်ပေးထာတယ်
+ TRUE & DTAC 5 ဖိုင်ထည့်ပေးထာတယ်
  ဖိုင်တင်သည့်ရင် 5/2/2023
  ဖိုင်ကုန်နေ့ 6/1/2023
 ",
