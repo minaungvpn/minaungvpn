@@ -1,8 +1,8 @@
 {
 //အပ်ဒိတ်အတွက် ဗားရှင်း၊ အပ်ဒိတ်ရှိပါက၊ နံပါတ်ကို ယခင်ထက် ပိုကြီးစေရန် ပြောင်းလဲရပါမည်
-"Version":"1.3",
+"Version":"1.1",
 //ဆာဗာ အပ်ဒိတ်အတွက် လင့်ခ်
-"Url":"https://github.com/minaungvpn/minaungvpn/raw/main/freeminaung.zip" ,
+"Url":"https://github.com/minaungvpn/minaungvpn/raw/main/freevpn.zip" ,
 "Changelog":"
 မ ဂင်္လာပါ 
  TRUE & DTAC 5 ဖိုင်ထည့်ပေးထာတယ်
